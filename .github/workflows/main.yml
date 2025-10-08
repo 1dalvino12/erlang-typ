@@ -1,4 +1,4 @@
-name: deploy FixeD
+name: deploy package manager
 
 on:
   push:
